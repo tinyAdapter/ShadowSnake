@@ -1,0 +1,7 @@
+#ifndef MUSIC_H
+#define MUSIC_H
+
+/*À¢–¬“Ù¿÷…Ë÷√*/
+void MS_Refresh();
+
+#endif // !MUSIC_H
